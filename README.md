@@ -1,4 +1,4 @@
-# Who i am? 👾
+# Who i am? 💡
 
 Hello, my name is Gabriel, I am Brazilian and I am currently studying programming.
 
@@ -7,5 +7,5 @@ Hello, my name is Gabriel, I am Brazilian and I am currently studying programmin
 - From Fortaleza, Ceará ⛅️
 - Always trying to improve 📚
 - Currently studying **Javascript** focused on Web Frontend Development 💻
-- **Discord**: Akira7#0001
+- **Discord**: Akira7#0001 👾
 
