@@ -7,5 +7,5 @@ Hello, my name is Gabriel, I am Brazilian and I am currently studying programmin
 - From Fortaleza, Ceará ⛅️
 - Always trying to improve 📚
 - Currently studying **Javascript** focused on Web Frontend Development 💻
-- **Discord**: Akira7#0001 👾
+- **Discord**: Akira7#0047 👾
 
